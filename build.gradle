@@ -3,6 +3,7 @@ apply plugin: 'java'
 repositories {
     mavenCentral()
 }
+one more dependecices
 
 dependencies {
     testCompile 'junit:junit:4.8.2'
